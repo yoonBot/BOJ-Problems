@@ -4,3 +4,4 @@
 ###### 1. These are my personal approaches of each problem I solved. There are a lot other approaches and a lot of different possible algorithms that are appropriate. 
 ###### 2. I will provide not only commentaries of the code, but an actual documented explanation of how I approached each problem. 
 ###### 3. All the code reproduced are based on my own knowledge of C/C++/Java/Python
+###### 4. All of my codes have been tested and passed on BOJ's [website](https://www.acmicpc.net/)
